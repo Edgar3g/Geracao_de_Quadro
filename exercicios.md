@@ -24,4 +24,8 @@
 
 ![Exercício ](./img/11.png)
 
+![Exercício ](./img/12.png)
+
+![Exercício ](./img/13.png)
+
 ## Qualquer Duvída Abra uma *issue* vou ter todo prazer em ajudar
