@@ -28,4 +28,16 @@
 
 ![Exercício ](./img/13.png)
 
+![Exercício ](./img/14.png)
+
+![Exercício ](./img/15.png)
+
+![Exercício ](./img/16.png)
+
+![Exercício ](./img/17.png)
+
+![Exercício ](./img/18.png)
+
+![Exercício ](./img/19.png)
+
 ## Qualquer Duvída Abra uma *issue* vou ter todo prazer em ajudar
